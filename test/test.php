@@ -18,6 +18,7 @@
   <option value="pie">Пирог</option> 
   <option value="bread" selected="selected" label="Хлеб"></option> 
    <option value="cookie" label="Печенье"></option>
+    <option value="ber" label="Львовское 1715"></option>
    </optgroup> 
 
 
